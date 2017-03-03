@@ -1,0 +1,3 @@
+[submodule "snes9x"]
+	path = snes9x
+	url = git@github.com:libretro/snes9x.git
