@@ -1,3 +1,6 @@
 [submodule "snes9x"]
 	path = snes9x
 	url = git@github.com:libretro/snes9x.git
+[submodule "mgba"]
+	path = mgba
+	url = git@github.com:libretro/mgba.git
